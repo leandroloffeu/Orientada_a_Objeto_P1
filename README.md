@@ -3,7 +3,7 @@
 # Engenharia de Software
 ### Leandro Loffeu Pereira Costa
 ### Programação Orientada a Objetos - 3º Período
-### Frofessor: Fabricio
+### Frofessor: Fabricio Dias
 
 Neste programa, a classe Conta é criada com os atributos numero, titular, saldo, Limite inicializado no momento da criação de uma nova instância. 
 
