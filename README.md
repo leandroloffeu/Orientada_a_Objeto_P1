@@ -5,7 +5,7 @@
 ### Programação Orientada a Objetos - 3º Período
 ### Frofessor: Fabricio Dias
 
-Neste programa, a classe Conta é criada com os atributos numero, titular, saldo, Limite inicializado no momento da criação de uma nova instância. 
+Neste programa, a classe Conta é criada com os atributos: numero, titular, saldo, limite inicializado no momento da criação de uma nova instância. 
 
 
 Em seguida, são criados três métodos:
