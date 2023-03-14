@@ -23,6 +23,9 @@
 
 ### Criamos um from  conta import: que seria uma importação de pacotes do código da conta.py
 
+![N|Solid](https://github.com/leandroloffeu/Orientada_a_Objeto_P1/blob/80c1306f910c972553fb629896690f1c68253ac3/Imagens/metodos.PNG)
+
+
 
 #### Por fim, instância da classe Conta com numero “123-5”, titular “Nilton Junior”, saldo “R$120.00” e limite “R$500.00” e são realizadas algumas operações nessa conta, como depósito de R$80, saque de R$1000.00 e consulta de saldo atual.
 
