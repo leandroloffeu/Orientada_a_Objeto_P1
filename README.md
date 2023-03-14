@@ -21,7 +21,7 @@
 
 ![N|Solid](https://github.com/leandroloffeu/Orientada_a_Objeto_P1/blob/80c1306f910c972553fb629896690f1c68253ac3/Imagens/metodos.PNG)
 
-### Criamos um from  conta import: que seria uma importação de pacotes do código da conta.py
+#### Criamos um from  conta import: que seria uma importação de pacotes do código da conta.py
 
 ![N|Solid](https://github.com/leandroloffeu/Orientada_a_Objeto_P1/blob/45d54c22c4960854f07e2c6bcc162f1972f3d3c8/Imagens/main.PNG)
 
