@@ -6,7 +6,7 @@
 ### Frofessor: Fabricio Dias
 
 #### Neste programa, a classe Conta é criada com os atributos: numero, titular, saldo, limite inicializado no momento da criação de uma nova instância. 
-[![N|Solid](https://universidadedevassouras.edu.br/wp-content/uploads/2022/03/campus_marica.png)](https://universidadedevassouras.edu.br/campus-marica/)
+[![N|Solid](https://github.com/leandroloffeu/Orientada_a_Objeto_P1/blob/c362c9e9c581c052a5696c2d03158f13ce7f45a1/Imagens/Classe_conta.PNG)
 
 
 ### Em seguida, são criados três métodos:
