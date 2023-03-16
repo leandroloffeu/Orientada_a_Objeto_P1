@@ -1,5 +1,5 @@
 class Conta:
-    def __init__(self, numero, titular, saldo, limite):
+    def __init__(self, numero, titular, saldo, limite=1000.00):
         self.numero = numero
         self.titular = titular
         self. saldo = saldo
@@ -22,7 +22,7 @@ class Conta:
     def  extrato(self):
         print(f'O Saldo da conta de numero {self.numero} é: {self.saldo}')
 
-    def transfere (self,destino,valor):
+    def transfere(self,destino,valor):
         if (self.saldo >= valor):
             self.saldo -= valor
             destino.saldo +=valor
