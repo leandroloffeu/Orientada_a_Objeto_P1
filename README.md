@@ -17,6 +17,7 @@
 #### Depositar: recebe um valor como parâmetro e adiciona esse valor ao saldo da conta.
 #### Sacar: recebe um valor como parâmetro e subtrai esse valor do saldo da conta, desde que haja saldo suficiente. Caso contrário, exibe uma mensagem de “Saldo insuficiente”.
 #### Extrato: exibe o extrato atual da conta.
+#### Transfere: realiza a transferência entre as contas(conta1 e Conta2)
 
 
 ![N|Solid](https://github.com/leandroloffeu/Orientada_a_Objeto_P1/blob/80c1306f910c972553fb629896690f1c68253ac3/Imagens/metodos.PNG)
