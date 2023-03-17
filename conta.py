@@ -1,7 +1,7 @@
 class Conta:
-    def __init__(self, numero, titular, saldo, limite=1000.00):
+    def __init__(self, numero, cliente, saldo, limite=1000.00):
         self.numero = numero
-        self.titular = titular
+        self.titular = cliente
         self. saldo = saldo
         self. limite = limite
 
